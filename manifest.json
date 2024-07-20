@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Youtube Caption Extractor",
+  "version": "1.0.0",
+
+  "description": "Extracts the captions of a Youtube Video and their timestamps",
+
+  "icons": {
+    "48": "icons/icon-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/watch?v=*"],
+      "js": ["main.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
