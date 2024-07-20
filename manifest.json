@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "Youtube Caption Extractor",
+  "name": "Youtube Transcript Downloader",
   "version": "1.0.0",
 
-  "description": "Extracts the captions of a Youtube Video and their timestamps",
+  "description": "Lets you download the Transcripts of Youtube Videos as JSONs",
 
   "icons": {
     "48": "icons/icon-48.png"
