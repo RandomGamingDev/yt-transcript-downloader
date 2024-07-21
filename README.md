@@ -1,5 +1,7 @@
 # Youtube Transcript Downloader aka yt-transcript-downloader
 ### A Firefox Extension that allows you to download the Transcripts of Youtube Videos as JSONs. Perfect for all your Youtube Historian and Research needs!
+You can use it here: https://addons.mozilla.org/en-US/firefox/addon/youtube-transcript-downloader/
+
 ![image](https://github.com/user-attachments/assets/0fd2cde4-313e-479d-a492-4a4b299fc90d)
 
 ## Results
